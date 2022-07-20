@@ -1,5 +1,4 @@
 import 'package:edvive_task1/home_page.dart';
-import 'package:edvive_task1/home_page2.dart';
 import 'package:flutter/material.dart';
 
 void main() {
